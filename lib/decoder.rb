@@ -1,3 +1,5 @@
+require 'htmlentities'
+
 class Decoder
   class << self
     def decode str

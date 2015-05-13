@@ -1,3 +1,6 @@
+require_relative 'decoder'
+require 'date'
+
 class LogEntry
 
     attr_reader :entry

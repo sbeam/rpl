@@ -1,16 +1,19 @@
+require_relative 'log_entry'
+
 class EntryCollection
     #include Enumerable
-    def initialize lines
-      day = nil
-      @entries = []
+    #
 
+    def initialize lines
+      @entries = []
+      day = nil
       lines.each do |line|
-        e = line.pop
-        if e != ""
-          if matches = e.match(/<strong>(.*?)<\/strong>/)
+        line = line.shift
+        if line != ""
+          if matches = line.match(/<strong>(.*?)<\/strong>/)
             day = matches[1]
           else
-            @entries << LogEntry.new(e, day)
+            @entries << LogEntry.new(line, day)
           end
         end
       end

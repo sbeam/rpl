@@ -1,7 +1,7 @@
 # Resque tasks
+require 'rake/testtask'
 require 'resque/tasks'
 require 'resque/scheduler/tasks'
-require './send_tweet'
 
 namespace :resque do
   task :setup do
@@ -36,3 +36,11 @@ namespace :resque do
 
   task :scheduler_setup => :setup_schedule
 end
+
+
+Rake::TestTask.new do |task|
+  task.libs << %w(test lib)
+  task.pattern = 'test/test_*.rb'
+end
+
+task :default => :test

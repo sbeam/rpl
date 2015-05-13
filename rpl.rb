@@ -1,6 +1,4 @@
 # encoding: UTF-8
-require 'htmlentities'
-require 'date'
 require 'resque'
 require 'resque-scheduler'
 require 'digest'
@@ -30,7 +28,7 @@ def scrape_landing_page file
         end
 end
 
-collection = nil
+raw_entries = []
 
 File.open('rochester-times') do |f|
   the_log_url = scrape_landing_page f
@@ -39,13 +37,13 @@ File.open('rochester-times') do |f|
   File.open('14326') do |the_log|
     the_log.each_line do |line|
       if line =~ /<blockquote/
-         collection = EntryCollection.new line.scan /<blockquote\s*>(.*?)<\/blockquote\s*>\s*/
+         raw_entries += line.scan(/<blockquote\s*>(.*?)<\/blockquote\s*>\s*/)
       end
     end
   end
 end
 
-entries = collection.cleaned
+entries = EntryCollection.new(raw_entries).cleaned
 
 first_day = entries.detect { |e| !e.date.nil? }.date                             # get the day of the first entry              (Apr 12 9:48am)
 that_midnight = DateTime.new(first_day.year, first_day.month, first_day.day)     # go to the following midnight                (Apr 13 00:00)
