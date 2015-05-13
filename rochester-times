@@ -1,0 +1,2143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--==================================================
+====================START: HEADER===================-->
+	<head profile="http://www.w3.org/2005/10/profile" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+		<link rel="icon" type="image/png" href="http://www.fosters.com/Global/images/favicons/fosters_favicon.ico" />
+
+					<meta name="description" content="" />
+<meta property="og:site_name" content="fosters.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="msvalidate.01" content="7E15F9269E2CE66F2A488ABB04B5015E" />
+
+		<title>Rochester Times - fosters.com - Dover, NH</title>
+		<script type="text/javascript">
+var base_url = 'http://www.fosters.com';
+var saxo_domain = 'fosters.com';
+var saxo_pubtaxo = 2798;
+var saxo_city = 'Dover';
+var saxo_state = 'NH';
+var saxo_sitetitle = 'fosters.com';
+var saxo_zipcode = '03820';
+var saxo_sitecode = "FD";
+var saxo_newsbank = "";
+var saxo_google_analytics_ut = false;
+var saxo_legacysiteid = "PortsHerald";
+var siteua = "UA-50770546-3"; // Site
+var gaAccounts = ["rollup1:UA-51861146-1","rollup2:UA-51073501-1","rollup3:UA-50770546-2"];
+var rollup1ua = "UA-51861146-1"; // NMI
+var rollup2ua = "UA-51073501-1"; // LMG/XXX or GATEHOUSE
+var rollup3ua = "UA-50770546-2"; // Media Group or XXX
+var ga_delivery = "1"; // GA Custom Vars
+var vidplayed = false;
+var vidplayerid = "3974030184001";
+var viddomain = "fosters.com";
+var vidadpara = 'video';
+var bc_playerID_single = "3974030185001";
+var bc_playerID_chromeless = "3974030184001";
+var bc_playerID_mobile = "3974030183001";
+var bc_playerID_mobile_rwd = "4122422577001";
+var bc_playerKey_single = "AQ~~,AAADT2FngWk~,GynfsEZsmeKKUMGcOlNpaG3rkZCOlL-M";
+var bc_playerKey_chromeless = "AQ~~,AAADT2FngWk~,GynfsEZsmeKgHMYU7hzeQ7B6Vz33JasM";
+var bc_playerKey_mobile = "AQ~~,AAADT2FngWk~,GynfsEZsmeJaj8JZCwWsnQnZAqZdW2jZ";
+var bc_playerKey_mobile_rwd = "AQ~~,AAADT2FngWk~,GynfsEZsmeI0S4rWo6_HFnqTYTMM2oRW";
+var bc_adServerURL = "http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/11564835/'+viddomain+'/videoplayer&cust_params=pgtype%3D'+vidadpara+'&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&correlator=[timestamp]";
+var bc_publisherID = "3639471473001";
+var bc_api_token = "CkU_7E_tGlImfvd86A9xdMXc6VOF0LaaYdWsmHXEn0oWfJkLs2C63Q..";
+var ch = "totallylocaljobs";
+var defaultlocation = "Dover,NH";
+var defaultradius;
+var rootDomain = ".monster.com";
+var hname = "local-jobs";
+var twitterWidgetTS = false;
+var ndnObj = {"clientId":"92008","client":"seacoastonline"};
+</script>
+
+		<!-- //remove after site Launches
+Category = No Category defined
+@AdCode = fosters.com/rochester_front
+Profile = 14326
+@templatetype = /apps/pbcs.dll/section?category=&refresh=true&profile=14326
+@pagetype = section
+-->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<!-- ad-board - OAS -->
+		<script language="JavaScript" type="text/javascript" src="http://www.fosters.com/static/OAS/oas.js"></script>
+		<script type="text/javascript">
+		<!--		
+			function OAS_AD(pos)
+			{
+				if (OAS_version >= 11)
+					OAS_RICH(pos);
+				else
+					OAS_NORMAL(pos);
+			}
+				var ad_vurl ="";
+				 ad_vurl="fosters.com/rochester_front";
+			if(!ad_vurl) {
+				ad_vurl="fosters.com/fosters_front";	
+			}
+			var ad_positions = "Top,Middle,x02,x03,Top2";
+								 ad_positions="Top,Middle,x02,x03,Top2,x80,x61";
+			//console.log(ad_vurl, ad_positions);
+			OAS_SET_PARMS(ad_vurl, ad_positions, "");
+			OAS_version = 11;
+			if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+				OAS_version = 10;
+			if (OAS_version >= 11)
+				document.write('<scr' + 'ipt type="text/javascript" language="JavaScript1.1" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/scr' + 'ipt>');
+			//-->
+		</script>
+
+		<script class="kxct" data-id="JTS8ChVc" data-timing="async" data-version="1.9" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);(function(){var k=document.createElement("script");k.type="text/javascript";k.async=true;var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);k.src=/^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src)?src:src==="disable"?"":(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JTS8ChVc";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(k,s)})()
+</script>
+	<!-- enter OAS krux code here -->
+
+
+		<link rel="stylesheet" href="http://www.fosters.com/Global/css/global/style.min.css?10" />
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://www.fosters.com/Global/css/ie-7.css" />
+<![endif]-->
+
+		<link rel="stylesheet" href="http://www.fosters.com/Global/css/global/overrides.min.css?1" />
+
+		<script data-main="/Global/js/require/desktop/Scripts/scripts.min.js" src="/Global/js/require/desktop/Scripts/lib/require.js"></script>
+<script src="http://www.fosters.com/Global/js/require/handlebars-v1.1.2.js?1"></script>
+<script src="http://www.fosters.com/Global/js/global/templates/handlebars/templates.js?7"></script>
+<script type="text/javascript" async src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" async src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript">
+    var __st_loadLate=true; //if __st_loadLate is defined then the widget will not load on domcontent ready
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+stLight.options({publisher: "b9a1fa0a-8471-4ed7-22bc1b8cf4c4",doNotHash:true,doNotCopy:true,hashAddressBar:false,shorten:false,exclusive_services:true,services:"facebook,twitter,linkedin,googleplus,adfty,voxopolis,stumbleupon,allvoices,digg,adfty,allvoices,amazon_wishlist,arto,baidu,bebo,blinklist,blip,blogmarks,blogger,brainify,buddymarks,buffer,bus_exchange,care2,chiq,citeulike,connotea,corank,corkboard,current,dealsplus,delicious,digg,diigo,dotnetshoutout,dzone,edmodo,evernote,facebook,fark,fashiolista,folkd,formspring,fresqui,friendfeed,funp,fwisp,google,googleplus,google_bmarks,google_reader,google_translate,hatena,identi,instapaper,jumptags,kaboodle,linkagogo,linkedin,livejournal,meneame,messenger,mister_wong,mixx,moshare,myspace,n4g,netlog,netvouz,newsvine,nujij,odnoklassniki,oknotizie,orkut,pinterest,raise_your_voice,reddit,segnalo,sina,slashdot,sonico,speedtile,startaid,startlap,stumbleupon,stumpedia,technorati,typepad,tumblr,twitter,viadeo,virb,vkontakte,voxopolis,wordpress,xanga,xerpi,xing,yammer,yigg"});
+</script>
+<script>window.twttr = (function (d, s, id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src= "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+}(document, "script", "twitter-wjs"));</script>
+<script type="text/javascript" src="http://www.fosters.com/Global/js/global/global.min.js?20150331"></script>
+<script type="text/javascript" src="http://www.fosters.com/static/js/global/customSite.js?2"></script>
+<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jquery.colorbox-min-1.5.10.js"></script>
+<link href="http://static.djlmgdigital.com/corp/global/styles/colorbox.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript">
+	// OLD GOOGLE ANALYTICS
+	var _gaq = _gaq || [];
+	_gaq.push(
+		['_setAccount', ''+siteua+''],
+		['_setDomainName', 'none'],
+		['_setAllowLinker', true]
+	);
+	gaSendPageView(false);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+		
+	</head>
+	
+	<body id="top">
+		
+
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=252563611422820";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Google Tag Manager SEMG -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WKZW38"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WKZW38');</script>
+<!-- End Google Tag Manager -->
+
+		<div class="toprail">
+	<div class="centerwidth" class="clearfix">
+		<div class="float_l verts" style="position: relative;">
+		     <div class="float_l"><a href="http://www.facebook.com/FostersDailyDemocrat" target="_blank"><img class="m5t" src="/Global/images/head/Facebook.png"  /></a></div>
+<div class="float_l"><a href="http://www.twitter.com/FostersDailyDem" target="_blank"><img class="m5t" src="/Global/images/head/Twitter.png"  /></a></div>
+<div class="float_l"><a href="http://www.fosters.com/section/feed" target="_blank"><img class="m5t rss_headicon" src="/Global/images/head/Rss.png" /></a></div>
+		     <div id="hdsearch" onclick="hdsearch()" class="float_l">
+			    <form name="HeaderSearchForm" method="POST" onsubmit="return SubmitHeaderSearchFormPlusNavigators();">
+			        <input type="hidden" name="crit" value="" />
+			        <input type="hidden" name="pubtaxonomy" value="&taxonomyid#2798" />
+			        <input type="hidden" name="searchparam_dd" id="searchparam_dd" value="site">
+				    <div class="float_l">
+				        <input class="rounded" style="border:0px; margin: 10px 0px 0px 0px; width: 46px; padding: 2px 5px 3px 10px;" type="text" name="search" id="search" value="Search" onclick="searchbox(this.value,'Search','search');" onblur="this.value=!this.value?'Search':this.value;">
+				    </div>
+				    <div class="float_l search_headicon">
+				    	<input type="submit" value="" name="search_submit" style="cursor:pointer; background:url('/Global/images/head/search.png') no-repeat 0px 0px; border:0px; height: 20px; width: 20px;margin: 8px 0px 0px 6px;">
+				    </div>
+			    </form>
+		     </div>
+		</div>
+		<div class="float_r clearfix">
+			<div id="weather_dir" val="/section/?template=ajaxWeather" class="float_l toprail-weather"></div>
+			<script type="text/javascript">
+				ghmweather = new ghm.init();
+		        var gvar = {obj:'weather_dir', request:'dir', location:'weather_dir'}
+	            ghmweather.bootstrap(gvar,false,false,false,false);
+			</script>
+			<!--<div class="float_l toprail-vert white"><a target="_blank" href="http://www.seacoastonline.com/apps/pbcs.dll/misc?url=/misc/eEditionaccess.pbs">e-edition</a></div>
+<div class="float_l toprail-vert-division white">|</div>-->
+<div class="float_l toprail-vert white"><a target="_blank" href="http://services.seacoastonline.com/reader-services/subscribe/email-alerts/">newsletter</a></div>
+<div class="float_l toprail-vert-division white">|</div>
+<div class="float_l toprail-vert white"><a target="_blank" href="http://www.limelightdeals.com">deals</a></div>
+		</div>
+	</div>
+</div>
+<div style="background-color:#fff">
+	<div class="centerwidth clearfix" style="height:115px; background-color:#fff">
+	    <div class="float_l" style="padding-top:11px; width:292px">
+	    	<a href="http://www.fosters.com"><img class="mainheadnameplate" src="http://www.fosters.com/Global/images/head/nameplate/fosters_logo.png"  alt="fosters.com" /></a>
+	    </div>
+	    <div class="float_l" style="padding:12px 0px 0px 4px; height:90px; width:728px" >
+							<!-- OAS Ad: Top: 728x90 (Leaderboard in Header) -->
+<div class="adTop" id="Top1">
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			OAS_AD('Top');
+		//-->
+	</script>
+</div>
+	    </div>
+	</div>
+</div>
+
+		<style type="text/css">
+	/* reset */
+	#parentmenu > li {
+		position:static; /* remove .mmenu li {position:relative;} */
+	}
+	#main-menu .mega-menu > div ul > li {
+		display: block;
+		font-size: normal;
+		font-weight: normal;
+		text-transform: none;
+	}
+	.clear {
+		clear:both;
+	}
+	#main-menu-wrap {
+		background:#F2F2F2 url('/Global/images/head/menu-border.png') repeat-x bottom;
+	}
+	#main-menu-wrap .centerwidth {
+		height:40px;
+	}
+	#main-menu {
+		margin:10px 0px 0px 0px;
+		position:relative;
+	}
+	#parentmenu > li {
+		display:inline-block;
+	}
+	#parentmenu > li:first-child {
+		padding-left:0px;
+	}
+	#parentmenu > li:hover {
+		cursor: pointer;
+	}
+	#parentmenu > li:hover > .mega-menu {
+	    opacity: 1;
+	    visibility: visible;
+	    overflow: visible;
+	}
+	#parentmenu > li:hover > a.arrow {
+		background: url('/Global/images/head/submenu-arrow-up.png') no-repeat center 18px;
+		background-position: center 19px\9; /* ie8 fix */
+	}
+	#vert-menu {
+		padding:11px 0px 0px 15px; 
+		text-align:right;
+	}
+	#vert-menu .mmenu-a {
+		color:#000;
+		text-transform:uppercase;
+	}
+	#main-menu .mega-menu {
+		width:1060px;
+		background-color:#fff;
+		position:absolute;
+		left:-18px;
+		top:30px;
+		top:31px\9; /* ie8 fix */
+		z-index:10000;
+		opacity: 0;
+	    visibility: hidden;
+	    border-radius: 0 0 8px 8px;
+	    -moz-box-shadow: 0 2px 1px #a3a3a3;
+		-webkit-box-shadow: 0 2px 4px #a3a3a3;
+		box-shadow: 0 2px 4px #a3a3a3;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3')";
+		filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3');
+	}
+	#main-menu .mega-menu .mega-col-wrap {
+		overflow: hidden;
+	}
+	#main-menu .mega-menu .mega-col-wrap > div {
+		padding:6px 17px;
+		float:left;
+		margin-bottom: -99999px;
+		padding-bottom: 99999px;
+	}
+	#main-menu .mega-menu > div ul {
+		width: 100%;
+	}
+	#main-menu .mega-menu > div ul > li {
+		padding: 9px 0;
+		border-top: 1px solid #e7e7e7;
+	}
+	#main-menu .mega-menu > div ul > li:first-child {
+		border-top: 0;
+	}
+	#main-menu .mega-menu .mega-col-subnav {
+	     width:178px;
+	     border-radius: 0 0 0 8px;
+	}
+	#main-menu .mega-menu .mega-col-subnav a {
+		font-size: 13px;
+		padding-left: 30px;
+	}
+	#main-menu .mega-menu .mega-col-subnav a:hover {
+		background: url('/Global/images/head/nav/mega-menu-subnav-right-arrow.png') no-repeat 13px 2px;
+	}
+	#main-menu .mega-menu .mega-col-featured {
+	     width:378px;
+	     background: url('/Global/images/head/nav/mega-menu-dots.png') repeat-y 0 0;
+	     padding-left:17px;
+	}
+	#main-menu .mega-menu .mega-col-featured > ul {
+		height: 100%;
+	}
+	#main-menu .mega-menu .mega-col-featured li a {
+		color:#1a7abf;
+		font-weight:bold;
+		display: block;
+		margin-bottom: 3px;
+	}
+	#main-menu .mega-menu .mega-col-featured li img {
+		float:left;
+		margin-right: 9px;
+	}
+	#main-menu .mega-menu .mega-col-top-stories {
+	     width:402px;
+	     background: #f2f2f2 url('/Global/images/head/nav/mega-menu-dots.png') repeat-y 0 0;
+	     padding-left:17px;
+	     border-radius: 0 0 8px 0;
+	}
+	#main-menu .mega-menu .mega-col-top-stories p {
+		display: none;
+	}
+	#main-menu .mega-menu .mega-col-top-stories .line {
+	    border-bottom: 3px solid #1a7abf;
+	    overflow:visible;
+	    height:6px;        
+	}
+	#main-menu .mega-menu .mega-col-top-stories .line h3 {
+	    background-color: #f2f2f2;        
+	    padding-right: 9px;
+	    color:#1a7abf;
+		float: left;
+		margin-right: 9px;
+		font-size:12px;
+	}​
+	#main-menu .mega-menu .mega-col-top-stories .keyIcon,
+	#main-menu .mega-menu .mega-col-featured .keyIcon
+	 {
+		border:0px;
+		margin:0px;
+		padding:0px;
+		float:none;
+	}
+	/* Small Mega Menu */
+	#parentmenu > li.small-menu {
+		position:relative !important;
+	}
+	#parentmenu > li.small-menu:hover > .mega-menu {
+	    opacity: 1;
+	    visibility: visible;
+	    overflow: visible;
+	}
+	#main-menu .small-menu .mega-menu {
+		width:auto;
+		padding: 6px 17px;
+		background-color:#fff;
+		position:absolute;
+		left:50%;
+		margin: 0 0 0 -118px;
+		top:29px;
+		top:31px\9; /* ie8 fix */
+		z-index:10000;
+		opacity: 0;
+	    visibility: hidden;
+	    border-radius: 0 0 8px 8px;
+	    -moz-box-shadow: 0 2px 1px #a3a3a3;
+		-webkit-box-shadow: 0 2px 4px #a3a3a3;
+		box-shadow: 0 2px 4px #a3a3a3;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3')";
+		filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#a3a3a3');
+	}
+	#main-menu .small-menu .mega-menu .mega-col-wrap {
+		overflow: hidden;
+	}
+	#main-menu .small-menu .mega-menu .mega-col-wrap > div {
+		float:left;
+		margin-bottom: -99999px;
+		padding-bottom: 99999px;
+	}
+	#main-menu .small-menu .mega-menu > div ul {
+		width: 100%;
+	}
+	#main-menu .small-menu .mega-menu > div ul > li {
+		padding: 9px 0;
+		border-top: 1px solid #e7e7e7;
+		display: block;
+	}
+	#main-menu .small-menu .mega-menu > div ul > li:first-child {
+		border-top: 0;
+	}
+	#main-menu .small-menu .mega-menu .mega-col-subnav {
+		width:auto;
+	    min-width:178px;
+	    border-radius: 0 0 0 8px;
+	}
+	#main-menu .small-menu .mega-menu .mega-col-subnav a {
+		font-size: 13px;
+		padding-left: 30px;
+		font-weight: normal;
+		text-transform: none;
+	}
+	#main-menu .small-menu .mega-menu .subnav-col-subnav a:hover {
+		background: url('/Global/images/head/nav/mega-menu-subnav-right-arrow.png') no-repeat 13px 2px;
+	}
+	@-moz-document url-prefix() {
+	    #main-menu .mega-menu {
+	        top:31px;
+			box-shadow: 0 2px 1px #a3a3a3;
+	    }
+	    #main-menu .small-menu .mega-menu {
+		    top:30px !important;
+		    box-shadow: 0 2px 1px #a3a3a3;
+	    }
+		#parentmenu > li:hover > a.arrow {
+			background-position: center 20px;
+		}
+	}
+</style>
+<div id="main-menu-wrap" class="clearfix">
+	<div class="centerwidth">
+        <div id="vert-menu" class="float_r">
+	        <ul class="mmenu float_r">
+		         <li><a class="mmenu-a" style="color:#000" target="_blank" href="http://www.seacoastclassifiedads.com">Classifieds</a></li>
+<li><a class="mmenu-a" style="color:#000" target="_blank" href="http://www.seacoastclassifiedads.com/jobs">Jobs</a></li>
+<li><a class="mmenu-a" style="color:#000" target="_blank" href="http://www.seacoastclassifiedads.com/cars">Autos</a></li>
+<li><a class="mmenu-a" style="color:#000" target="_blank" href="http://www.seacoastclassifiedads.com/homes">Real Estate</a></li>
+	        </ul>
+        </div>
+    </div>
+</div>
+	<script async type="text/javascript">
+		/**
+		 * Returns an object (from an array of objects) based on a property value
+		 */
+		function getObjWhenPropertyEquals(prop, val, myArray)
+		{
+		    for (var i = 0; i < myArray.length; i++) 
+		    {
+		        // check the obj has the property before comparing it
+		        if (typeof myArray[i][prop] === 'undefined') {continue;}
+		        // if the obj property equals our test value, return the obj
+		        if (myArray[i][prop] === val)
+		        {
+		        	// add array key to the object
+		        	myArray[i].arrayKey = i;
+		        	return myArray[i];
+		        }
+		    }
+		    // didn't find an object with the property
+		    return false;
+		}
+		/**
+		 * Comparison for sorting by story date.  Most recent stories first.
+		 */
+		function compareStoryDates(a,b) {
+		  if (a.date < b.date)
+		     return 1;
+		  if (a.date > b.date)
+		    return -1;
+		  return 0;
+		}
+		/**
+		 * Prepare all data for Handlebars template
+		 */
+		function preprocessAllMainMenuItemData(d)
+		{
+			// MAIN MENU DATA
+			var menuItems = d.main;
+			for (var i = 0; i <= menuItems.length-1; i++) {
+				// remove "More" from Main Menu
+				if (menuItems[i].title=='More')
+				{
+					menuItems.splice(i,1);
+					continue;
+				}
+				menuItems[i] = preprocessMainMenuItemData(menuItems[i])
+			};
+			d.main = menuItems;
+			return d;
+		}
+		/**
+		 * Prepare single menu item data for Handlebars template
+		 * Used when updating a menu item on hover
+		 */
+		function preprocessMainMenuItemData(menuItem)
+		{
+			if(menuItem)
+			{
+				// SUB NAV ITEMS
+				var menuItemData = preprocessMainMenuSubNavItems(menuItem);
+				// STORIES
+				menuItemData = preprocessMainMenuStories(menuItem);
+				// add additional functions to preprocess any other data here.
+			}
+			return menuItemData;
+		}
+		/**
+		 * Preprocess Sub Nav Items
+		 */
+		 function preprocessMainMenuSubNavItems (menuItem)
+		 {
+			var maxSubNavItems = 6;
+			if (menuItem.subitems)
+			{
+				var subnavItems = menuItem.subitems;
+				for (var j = 0; j <= menuItem.subitems.length-1; j++) {
+					// REMOVE TOP STORIES
+					if(subnavItems[j].title=="Top Stories")
+					{
+						menuItem.subitems.splice(j,1);
+					}
+				};
+				// LIMIT TO MAX ITEMS
+				if (menuItem.subitems.length > maxSubNavItems)
+				{
+					menuItem.subitems.splice(maxSubNavItems,menuItem.subitems.length);
+				}
+			}
+			return menuItem;
+		 }
+		/**
+		 * Preprocess Stories
+		 */
+		function preprocessMainMenuStories (menuItem) {
+			var maxStories = 4;
+			if (menuItem.stories && menuItem.stories.length > 0)
+			{
+				menuItem.featured = [];
+				var featImageCount = 0;
+				var stories = menuItem.stories;
+				for (var j = 0; j <= stories.length-1; j++) {
+					// BUILD FEATURED STORIES
+					// copy stories to "featured" property, grab stories with images if they exist.
+					if(stories[j].image && featImageCount<2)
+					{
+						featImageCount++;
+						menuItem.featured.push(menuItem.stories[j]);
+						menuItem.stories.splice(j,1);
+					}
+				};
+				// BUILD FEATURED STORIES (cont.)
+				// Didn't find images for all items
+				if (featImageCount == 1)
+				{
+					// Only 1 image, add the first story available
+					menuItem.featured.push(menuItem.stories[0]);
+					menuItem.featured.sort(compareStoryDates);
+					menuItem.stories.splice(0,1);
+				}
+				else if (!featImageCount)
+				{
+					// No images, add the first 2 stories from "stories"
+					menuItem.featured = [menuItem.stories[0],menuItem.stories[1]];
+					menuItem.stories.splice(0,2);
+				}
+				// LIMIT TO MAX ITEMS
+				if (menuItem.stories.length > maxStories)
+				{
+					menuItem.stories.splice(maxStories,menuItem.stories.length);
+				}
+			}
+				return menuItem;
+		}
+		/**
+		 * Build Mega Menu for all nav items
+		 */
+		function buildAllMegaMenus(d)
+		{
+			// BUILD ALL MEGA MENU ITEMS
+			var menuItems = d.main;
+			for (var i = 0; i <= menuItems.length-1; i++) {
+				buildMegaMenu(menuItems[i]);
+			}
+		}
+		/**
+		 * Build single mega menu
+		 */
+		function buildMegaMenu(menuItemData)
+		{	
+			var megaMenuTemplate = getNavView('mega-menu',menuItemData);
+			$('#main-menu #'+menuItemData.id+' .mega-menu').html(megaMenuTemplate);
+		}
+		/**
+		 * Build Main Menu
+		 */
+		function buildMainMenu(mainMenuTemplate)
+		{
+			$('#main-menu-wrap .centerwidth').prepend(mainMenuTemplate);
+		}
+		/**
+		 * Build Default Menu
+		 */
+		 function buildDefaultMenu()
+		 {
+			var defaultMenuData = {"obits":""}
+			var mainMenuTemplate = getNavView('default-menu',defaultMenuData);
+			buildMainMenu(mainMenuTemplate);
+		 }
+		/**
+		 * Update Mega Menus
+		 */
+		 function updateMegaMenu(mainMenuItemId)
+		 {
+		 	$.getJSON( "http://www.fosters.com/section/nav-model&mime=application%2Fjson", function( data ) {
+				var menuItem = getObjWhenPropertyEquals('id', mainMenuItemId, data.main);
+				if (menuItem)
+				{
+					data.main[menuItem.arrayKey] = preprocessMainMenuItemData(menuItem);
+					buildMegaMenu(data.main[menuItem.arrayKey]);
+				}
+			});
+		 }
+		/**
+		 * Gets the Handlebars Template
+		 */
+		function getNavView(templateName,data)
+		{
+			if (templateName in Handlebars.templates) 
+			{
+				var template = Handlebars.templates[templateName](data);
+				return template;
+			}
+			else
+			{
+				console.log("Handlebars template: '"+templateName+"' doesn't exist.");
+				return false;
+			}
+		}
+		// DRAW MAIN NAV
+		$.getJSON( "http://www.fosters.com/section/nav-model&mime=application%2Fjson", function( data ) {
+			var mainMenuData = preprocessAllMainMenuItemData(data);
+			var mainMenuTemplate = getNavView('main-menu',mainMenuData);
+			if (mainMenuTemplate)
+			{
+				buildMainMenu(mainMenuTemplate);
+				buildAllMegaMenus(mainMenuData);
+			}
+			else
+			{
+				buildDefaultMenu();
+			}
+		})
+		.fail(function() {
+			buildDefaultMenu();
+		});
+	</script>
+	<script type="text/javascript">
+	/*
+	// Update Nav Menu on Hover
+	$( document ).ready(function() {
+		$( "#parentmenu > li a.arrow" ).mouseover(function() {
+			var mainMenuItemId = $(this).parent().attr("id");
+			mainMenuItemId = mainMenuItemId.toString();
+		 	updateMegaMenu(mainMenuItemId);
+		});
+	});*/
+	</script>
+
+		<!--[if IE]><style type="text/css">.featbar-cont{background:#000;}</style><![endif]-->
+<div class="featbar-cont" style="background:rgba(0,0,0,0.90);"> 
+    <div class="secmenu centerwidth" style="height:20px">
+	    <ul>			
+			<li style="margin-right:10px;font-weight:bold;"><span class="featuredNavDate">Wed, April 15, 2015</span>&nbsp;&raquo;</li>			
+<li>
+<a target="_blank" class="mmenu-a" style="color:#fff" href="http://www.legacy.com/obituaries/fosters/">Obits</a>
+</li>
+<li>
+<a class="mmenu-a" style="color:#fff" href="http://www.fosters.com/topics/dover-area">Dover area</a>
+</li>
+<li>
+<a class="mmenu-a" style="color:#fff" href="http://www.fosters.com/topics/durham-area">Durham area</a>
+</li>
+<li>
+<a target="_blank" class="mmenu-a" style="color:#fff" href="http://services.seacoastonline.com/reader-services/submissions/story-idea/">Submit News</a>
+</li>
+<li>
+<a class="mmenu-a" style="color:#fff" href="http://www.fosters.com/rochester-times">Rochester Times</a>
+</li>
+<li>
+<a class="mmenu-a" style="color:#fff" href="http://www.fosters.com/sanford-news">Sanford News</a>
+</li>
+<li>
+<a class="mmenu-a" style="color:#fff" href="http://www.fosters.com/topics/rochester-area">Rochester area</a>
+</li>
+<li>
+<a class="mmenu-a" style="color:#fff" href="http://www.fosters.com/topics/so-maine">So. Maine</a>
+</li>
+		</ul>
+    </div>
+</div>
+
+
+		<div id="cwell" class="globalwrapper">
+			<script type="text/javascript">
+var mainnavarray = new Array();
+$('#main-menu li').each(function(){
+    mainnavarray.push($(this).find('.get'));
+    $(this).mouseover(function(){
+       var gotget = $(this).find('.get');
+       if(gotget.attr("class")){gotget.show();$(this).find('.mmenu-a').addClass("mmenu-a-over");}
+    });
+    $(this).mouseout(function(){
+        for(i=0;mainnavarray.length>=i;i++){$(mainnavarray[i]).hide();$(this).find('.mmenu-a').removeClass("mmenu-a-over");}
+    });
+});
+</script>
+
+<!--================================================
+====================END: HEADER===================-->
+
+
+
+
+<!--===================================================
+====================START: CONTENT===================-->
+					<!-- OAS Ad: Sliding Billboard: 1024x30/300 (below nav) -->
+<div class="adSlidingBillboard" id="x61" style="clear:both; display:block; text-align:center; width:1024px; height:auto !important; margin:0px auto !important; padding:5px 0px; background-color:#FFF;">
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			OAS_AD('x61');
+		//-->
+	</script>
+</div>
+
+
+			<div style="float:left;width:100%;margin-top:30px;">
+				<style type="text/css">
+    #ps{float:left;}
+    .psleft{background:url('/Global/images/sprite.png') no-repeat scroll -580px 21px transparent;height:40px;width:15px;}
+    .psright{background:url('/Global/images/sprite.png') no-repeat scroll -593px 21px transparent;height:40px;width:15px;}
+    .psitem{width:213px}
+    .psitem-title{margin-left:5px;font-size:12px;width:200px;padding-top:5px;font-weight:bold;padding:0px 3px;}
+    .psitem-cont{width:102px;padding:0px 3px;}
+    .psitem-imgcont{width:200px; height:75px; margin-left:5px}
+    .psitem img{padding:2px;border:1px solid #bdbdbd;float:left;}
+    .pcmainbkt {width:640px; height:95px; overflow:hidden; overflow-y: inherit}
+    .pcslidermain {width:1920px;height:90px;position:relative;z-index:9}
+    .pcbkt{float:left; width:640px; height:95px;}
+    .psleft, .psright{cursor:pointer}
+</style>
+<div id="ps" class="clearfix">
+	<div class="psleft float_l" onclick="pc.click('left')"></div>
+	<div class="float_l">
+		<div id="pccont" class="pcmainbkt" style="height:95px;">
+			<div id="pmove" class="pcslidermain">
+				<div id="p0" class="pcbkt"></div>
+				<div id="p1" class="pcbkt">
+<div  class="1 psitem  float_l clearfix">
+    <div class="psitem-imgcont">
+    	<a href="http://fosters.com/housing-crisis">
+    		<img height="68" width="193" src="http://dv2.gatehousemedia.com/chister_test/promowiz/images/promos/PromoScroll0415.jpg" alt="Special report" title="Special report" />
+    	</a>
+    </div>
+    <div class="psitem-title">
+    	<a href="http://fosters.com/housing-crisis">Special report</a>
+    </div>
+</div>
+<div  class="1 psitem  float_l clearfix">
+    <div class="psitem-imgcont">
+    	<a href="http://www.statestreetdiscount.com">
+    		<img height="68" width="193" src="http://dv2.gatehousemedia.com/chister_test/promowiz/images/promos/2/PHD0002098 (MAIN).gif" alt="Sponsor" title="Sponsor" />
+    	</a>
+    </div>
+    <div class="psitem-title">
+    	<a href="http://www.statestreetdiscount.com">Sponsor</a>
+    </div>
+</div>
+<div  class="1 psitem  float_l clearfix">
+    <div class="psitem-imgcont">
+    	<a href="http://www.seacoastonline.com/section/tentowatch">
+    		<img height="68" width="193" src="http://dv2.gatehousemedia.com/chister_test/promowiz/images/promos/2/192x69.jpg" alt="10 to Watch contest" title="10 to Watch contest" />
+    	</a>
+    </div>
+    <div class="psitem-title">
+    	<a href="http://www.seacoastonline.com/section/tentowatch">10 to Watch contest</a>
+    </div>
+</div>
+</div>
+				<div id="p2" class="pcbkt">
+<div  class="2 psitem  float_l clearfix">
+    <div class="psitem-imgcont">
+    	<a href="https://www.facebook.com/MyBestRide?sk=app_244041225639079&app_data=45988">
+    		<img height="68" width="193" src="http://dv2.gatehousemedia.com/chister_test/promowiz/images/promos/2/camaro 2.jpg" alt="Enter your car photo and win" title="Enter your car photo and win" />
+    	</a>
+    </div>
+    <div class="psitem-title">
+    	<a href="https://www.facebook.com/MyBestRide?sk=app_244041225639079&app_data=45988">Enter your car photo and win</a>
+    </div>
+</div>
+<div  class="2 psitem  float_l clearfix">
+    <div class="psitem-imgcont">
+    	<a href="http://www.seacoastonline.com/section/business-services">
+    		<img height="68" width="193" src="http://dv2.gatehousemedia.com/chister_test/promowiz/images/promos/propel-fosters.jpg" alt="Online Marketing Services" title="Online Marketing Services" />
+    	</a>
+    </div>
+    <div class="psitem-title">
+    	<a href="http://www.seacoastonline.com/section/business-services">Online Marketing Services</a>
+    </div>
+</div>
+<div  class="2 psitem  float_l clearfix">
+    <div class="psitem-imgcont">
+    	<a href="http://www.seacoastonline.com/apps/pbcs.dll/misc?url=/static/landingPages/specialSections.htm">
+    		<img height="68" width="193" src="http://dv2.gatehousemedia.com/chister_test/promowiz/images/promos/special-sections.jpg" alt="Special sections" title="Special sections" />
+    	</a>
+    </div>
+    <div class="psitem-title">
+    	<a href="http://www.seacoastonline.com/apps/pbcs.dll/misc?url=/static/landingPages/specialSections.htm">Special sections</a>
+    </div>
+</div>
+</div>
+			</div>
+		</div>
+	</div>
+	<div class="psright float_l" onclick="pc.click('right')"></div>
+</div>
+<script type="text/javascript">
+pc = new mcc.init("p","640","pccont","pmove",1)
+$("#p0").html($("#p2").html())
+$('#pmove').css({"left":"-640px"});
+pc.run(10000000)
+</script>
+
+				
+				<div style="margin-left:20px;">
+</div>
+
+			</div>
+
+			<div id="content" class="clearfix section-landing">
+				
+				<style>
+	.profileHTML{clear:both;display:block;float:left;width:100%;margin:0px 0px 15px 0px;padding:5px 0px;border-bottom:2px dotted #CCC;}
+	.profileRelLinks{clear:both;display:block;float:left;width:100%;margin:0px 0px 10px 0px;padding-bottom:5px;border-bottom:2px dotted #CCC;}
+	.profileRelLinks .bkt_right{width:100%;padding:0px;margin:0px;display:block;border-bottom:none !important;}
+	.profileRelLinks .bkt_header{margin-bottom:20px;color: #FFF;background-color: #1A7ABF;background-image: none;padding-left: 5px;}
+	.profileRelLinks a{font-weight:bold;}
+</style>
+<div class="leftbar ftlt">
+		<ul class="section">
+			<div style="float:left;width:650px;background-color:#F2F2F2;margin-bottom:20px;margin-top:5px;">
+				<div class="sect_titleplate">
+					<li>
+						<ul>
+							<li class="section-title"><h1 style="font-size:35px;color:#FFF">ROCHESTER TIMES</h1></li>
+							<li class="section-desc" style="display:none;">
+								<h2></h2>
+							</li>
+						</ul>
+					</li>
+					<img src="/Global/images/lflap.png" style="position:absolute;left:-1px;bottom:-10px;">
+				</div>
+				<div class="sect_subsection_navitems_cont">
+					<ul>
+	<li id="subsectcommunitynews_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/community">Community News</li>
+	<li id="subsectphotogalleries_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/photos">Photo Galleries</li>
+	<li id="subsectbusiness_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/business">Business</li>
+	<li id="subsecteditorials_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/editorials">Editorials</li>
+	<li id="subsectletterstotheeditor_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/letters">Letters To The Editor</li>
+	<li id="subsectnewhampshire_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/newhampshire">New Hampshire</li>
+	<li id="subsectsports_dir" class="sect_subsection_navitems sect_subsection_navitems-1" val="http://www.fosters.com/rochester-times/sports">Sports</li>
+							<li class="sect_subsection_navitemsA moremenuitem moremenuitem-1" more="1" style="position:relative;">
+								<span>More</span>
+								<div class="moremenuitemscont" style="display: none;">
+									<div class="moremenuitemscont_inner">
+										<img src="/Global/images/morearr.png" style="position:absolute;top:0;left:0;">
+										<ul class="insect_subsect_moremenu" style="font-weight: normal;"></ul>
+									</div>
+								</div>
+							</li>
+					</ul>
+				</div>
+			</div>
+		</ul>
+		<!-- END: IN THIS SECTION -->
+		<div id="content_insect">
+					    <div class="sect_topstory_cont">
+		    <div class="sect_topstory_head">TOP STORY</div>
+		    <div class="sect_topstory_title">
+		    	<a style="color:#000;"href="/article/20150415/NEWS/150419628/14326">PANEL RECOMMENDS KEEPING COUNCIL STIPENDS THE SAME</a>
+		    </div>
+		    <div class="sect_topstory_sumdate_cont">
+		    	<span class="sect_topstory_date">
+		    		Updated at 1:38 PM
+		    	</span>
+		    	<p>ROCHESTER &#x2014; In a meeting at Granite Steak &amp; Grill on Friday, Mayor T.J. Jean&#x2019;s ad hoc committee decided not to recommend raising the stipends for the mayor and the City Council. Although it was technically a public meeting,...</p>
+		    </div>
+	    </div>
+		    <!--START: FEATURED CONTENT CONTAINER-->	
+			<div class="sect_featured_cont ">
+				<div class="sect_featured_left">
+							    <div style="margin-bottom:25px;">
+				    <div class="sect_featured_img">
+					    <a href="/article/20150415/NEWS/150419629/14326"><img src="http://www.fosters.com/storyimage/FD/20150415/NEWS/150419629/AR/0/AR-150419629.jpg?MaxW=430&MaxH=400" /></a>
+				    </div>
+				    <div class="sect_featured_title">
+				    	<a style="color:#000;" href="/article/20150415/NEWS/150419629/14326">Festival producer aims to put Rochester on regional map</a>
+				    </div>
+				    <div class="sect_featured_sumdate_cont">
+					    Updated at 1:38 PM
+				    </div>
+				    <div style="font-size:12px;">
+				    	<p>ROCHESTER &#x2014; FestEvents CEO Jude David was in Rochester recently to take part in a Chamber of Commerce...</p>
+				    </div>
+			    </div>
+				<div style="float:left;">
+									    <div class="sect_featured_companion_cont">
+					    <div style="float:right;width:100%;">
+						    <div class="sect_comptitle">
+						    	<a style="color:#000;" href="/article/20150415/NEWS/150419630/14326">Phantom Gourmet&#x2019;s annual festival moving to Fairgrounds</a>
+						    </div>
+						    <div class="sect_compsum">
+							    <span class="sect_topstory_date">
+							    	Updated at 1:37 PM
+							    </span>
+							    <p>ROCHESTER &#x2014; From June 26 to June 28, the Rochester Fairgrounds, rebranded as the Tri-City Arena, will play host to...</p>
+						    </div>
+					    </div>
+				    </div>
+				    				    <div class="sect_featured_companion_cont">
+					    <div style="float:right;width:100%;">
+						    <div class="sect_comptitle">
+						    	<a style="color:#000;" href="/article/20150415/NEWS/150419632/14326">5 Things to do this week</a>
+						    </div>
+						    <div class="sect_compsum">
+							    <span class="sect_topstory_date">
+							    	Updated at 1:34 PM
+							    </span>
+							    <p>Thursday:Seussical the Musical: Rochester Opera House Productions presents...</p>
+						    </div>
+					    </div>
+				    </div>
+			    </div>
+				</div>
+				<div class="sect_featured_right">
+			    <div style="float:right;width:185px;">
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_1">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419634/14326">Public hearings on CDBG plan April 21</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:33 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_2">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419635/14326">Lilac City Grille wins Munch Madness Tournament</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:32 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_3">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419636/14326">Footprints in fresh snow lead police to burglary suspect</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:30 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_4">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419637/14326">Rochester Police Log</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:30 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_5">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419638/14326">Rochester public meetings</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:29 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_6">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419639/14326">Ward 5 neighborhood meeting planned</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:28 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_7">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419640/14326">Correction</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:28 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_8">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419641/14326">Route 11 shopping center plans to be discussed at roundtable</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:27 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_9">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419642/14326">Student-made movie to be shown at Farmington High School</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:26 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_10">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419643/14326">Tea with local authors planned</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:25 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_11">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419644/14326">Sculpting demonstration comes to Gafney library</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:25 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_12">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419645/14326">Local church plans movie night</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:24 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_13">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419647/14326">Four Spaulding students qualify for national FBLA conference</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:21 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_14">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419648/14326">School roundups</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:20 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_15">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419649/14326">Granite State Choral Society receives grant</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:19 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_16">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419650/14326">Happenings at Rochester Recreation &amp; Arena</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:19 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_17">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419651/14326">Church hosts turkey dinner</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:19 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_18">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419652/14326">Post Polio group meeting on Sat.</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:19 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_19">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419653/14326">Spring craft fair coming to Somersworth</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:18 PM
+				    </div>
+			    </div>
+			    <div class="sect_rightinditems_cont" id="sect_rightinditems_cont_20">
+				    <div class="fbold">
+				    	<a class="cblack" href="/article/20150415/NEWS/150419654/14326">Kamil family makes gift to Frisbie hospital</a>
+				    </div>
+				    <div class="sect_rightinditems_date">
+				    	Updated at 1:18 PM
+				    </div>
+			    </div>
+			    </div>
+				</div>
+			</div>
+		</div>
+		<div class="sect_featured_more">
+			<a class="sect_featured_more_link" href="/rochester-times?sect=more">
+				Read more Rochester Times&nbsp;&nbsp;&raquo;
+			</a>
+		</div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/community">Community News</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="communitynews_mnu">
+						<li class="active" id="communitynewstab_P14358" style="visibility:hidden;">Community News</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+							<!--
+Object Class: NewsItem130.pbo
+-->
+				<div id="2024bkt" class="l_bkt_cont float_l" style="width: 315px;">
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419632/14358">5 Things to do this week</a>
+		                <span class="timestamp  red">Updated at 1:34 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419638/14358">Rochester public meetings</a>
+		                <span class="timestamp  red">Updated at 1:29 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419639/14358">Ward 5 neighborhood meeting planned</a>
+		                <span class="timestamp  red">Updated at 1:28 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419640/14358">Correction</a>
+		                <span class="timestamp  red">Updated at 1:28 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419641/14358">Route 11 shopping center plans to be discussed at roundtable</a>
+		                <span class="timestamp  red">Updated at 1:27 PM</span>
+		            </div>
+				</div>
+    	<div id="2024bkt_media" class="r_bkt_cont float_l clearfix">
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/1/1/PH-414009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+		                Battle of the Badges
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/1/1/PH-413009997.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+		                Somersworth Police Seat belt Challenge
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009998/PH/1/1/PH-413009998.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+		                Fashion Show raises money for Cornerstone VNA
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150412/PHOTOGALLERY/412009999/PH/1/1/PH-412009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+		                Rochester Opera lottery cocktail party
+					</a>
+	            </div>
+	        </div>
+		</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/community">Read more &raquo;</a></div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/photos">Photo Galleries</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="photogalleries_mnu">
+						<li class="active" id="photogalleriestab_P14359" style="visibility:hidden;">Photo Galleries</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+								        <div id="2036bkt" class="l_bkt_cont float_l" style="width: 315px;">
+	            <div id="2036bkt_lrg" class="click" style="width:328px; height:245px;">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+	                	<img style="display:block; margin:auto; max-width:328px; max-height:245px" src="http://www.fosters.com/galleryimage/FD/20150412/PHOTOGALLERY/412009999/PH/1/1/PH-412009999.jpg?MaxW=330">
+	                </a>
+	            </div>
+	            <div class="m5t black bld">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">Rochester Opera lottery cocktail party</a>
+	                <span class="timestamp red">Apr. 12, 2015</span>
+	            </div>
+	        </div>
+			<div id="2036bkt_media" class="r_bkt_cont float_l clearfix">
+	            <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+	                <a href="/photogallery/FD/20150406/PHOTOGALLERY/406009999/PH/629_2798_2800">
+	                	<div id="2036bkt1" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150406/PHOTOGALLERY/406009999/PH/1/1/PH-406009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+	                </a>
+	                <div class="m5t media_tease_title black">
+	                    <a href="/photogallery/FD/20150406/PHOTOGALLERY/406009999/PH/629_2798_2800">Rochester Times longtime Editor John Nolan retires.</a>
+	                </div>
+	            </div>
+	            <div class="media_sm_cont float_l m10b">
+	                <a href="/photogallery/FD/20150317/PHOTOGALLERY/317009989/PH/73_629_2798_2800">
+	                	<div id="2036bkt1" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150317/PHOTOGALLERY/317009989/PH/1/1/PH-317009989.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+	                </a>
+	                <div class="m5t media_tease_title black">
+	                    <a href="/photogallery/FD/20150317/PHOTOGALLERY/317009989/PH/73_629_2798_2800">Rochester Fire Department gets new air packs</a>
+	                </div>
+	            </div>
+	            <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+	                <a href="/photogallery/FD/20150317/PHOTOGALLERY/317009990/PH/73_629_2798_2800">
+	                	<div id="2036bkt1" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150317/PHOTOGALLERY/317009990/PH/1/1/PH-317009990.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+	                </a>
+	                <div class="m5t media_tease_title black">
+	                    <a href="/photogallery/FD/20150317/PHOTOGALLERY/317009990/PH/73_629_2798_2800">Mary Poppins at Spaulding High School</a>
+	                </div>
+	            </div>
+	            <div class="media_sm_cont float_l m10b">
+	                <a href="/photogallery/FD/20150317/PHOTOGALLERY/317009991/PH/73_629_2798_2800">
+	                	<div id="2036bkt1" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150317/PHOTOGALLERY/317009991/PH/1/1/PH-317009991.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+	                </a>
+	                <div class="m5t media_tease_title black">
+	                    <a href="/photogallery/FD/20150317/PHOTOGALLERY/317009991/PH/73_629_2798_2800">Shaw Drive fire in Rochester</a>
+	                </div>
+	            </div>
+			</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/photos">Read more &raquo;</a></div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/business">Business</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="business_mnu">
+						<li class="active" id="businesstab_P14360" style="visibility:hidden;">Business</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+							<!--
+Object Class: NewsItem130.pbo
+-->
+				<div id="2030bkt" class="l_bkt_cont float_l" style="width: 315px;">
+		            <div id="2030bkt_lrg" class="m20b click" style="width:328px;height:245px;cursor:auto;background: url(http://www.fosters.com/storyimage/FD/20150415/NEWS/150419635/AR/0/AR-150419635.jpg&amp;maxH=245&amp;maxW=330) 50% 0% no-repeat;"></div>
+		            <div class="tease_carousel_companion m5b bld black">
+		                <a href="http://www.fosters.com/article/20150415/NEWS/150419635/14360">Lilac City Grille wins Munch Madness Tournament</a>
+		            </div>
+		            <div class="timestamp m20b grey">Updated at 1:32 PM</div>
+		            <div class="m20b">ROCHESTER &#x2014; Lilac City Grille at 103 North Main Street in Rochester clinched the top spot in this year&#x20...</div>
+		        </div>
+				<div id="2030bkt_media" class="r_bkt_cont float_l clearfix">
+		            <div class="tease_headline m20b bld">
+		                <a href="http://www.fosters.com/article/20150415/NEWS/150419641/14360">Route 11 shopping center plans to be discussed at roundtable</a>
+		                <span class="timestamp red">Updated at 1:27 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="http://www.fosters.com/article/20150408/NEWS/150409480/14360">Sidewalk Talk on Tuesday</a>
+		                <span class="timestamp red">Updated Apr 8, 2015 at 1:16 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="http://www.fosters.com/article/20150401/NEWS/150409922/14360">Residents learn about maple syrup production at local sugar house</a>
+		                <span class="timestamp red">Updated Apr 1, 2015 at 2:30 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="http://www.fosters.com/article/20150401/NEWS/150409934/14360">Leading restaurants in Munch Madness contest announced</a>
+		                <span class="timestamp red">Updated Apr 1, 2015 at 2:16 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="http://www.fosters.com/article/20150401/NEWS/150409943/14360">Chamber offers scholarship to high school seniors</a>
+		                <span class="timestamp red">Updated Apr 1, 2015 at 1:59 PM</span>
+		            </div>
+						            <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+	                <div id="2030bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/1/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/2/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/3/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/4/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/5/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/6/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/7/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/8/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/9/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/10/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/11/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/12/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/13/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/14/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/15/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/16/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/17/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/18/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/19/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/20/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/21/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/22/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/23/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/24/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/25/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/26/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/27/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/28/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/29/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/30/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/31/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/32/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/33/PH-414009999.jpghttp://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/0/34/PH-414009999.jpg?MaxW=148) 50% 50% / cover no-repeat;">
+					</div>
+	                <div class="m5t media_tease_title black">
+	                    <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+		                    Battle of the Badges
+						</a>
+	                </div>
+	            </div>
+	            <div class="media_sm_cont float_l m10b">
+	                <div id="2030bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/1/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/2/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/3/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/4/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/5/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/6/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/7/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/8/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/9/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/10/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/11/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/12/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/13/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/14/PH-413009997.jpghttp://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/0/15/PH-413009997.jpg?MaxW=148) 50% 50% / cover no-repeat;">
+					</div>
+	                <div class="m5t media_tease_title black">
+	                    <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+		                    Somersworth Police Seat belt Challenge
+						</a>
+	                </div>
+	            </div>
+	        	</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/business">Read more &raquo;</a></div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/editorials">Editorials</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="editorials_mnu">
+						<li class="active" id="editorialstab_P14361" style="visibility:hidden;">Editorials</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+							<!--
+Object Class: NewsItem130.pbo
+-->
+				<div id="2024bkt" class="l_bkt_cont float_l" style="width: 315px;">
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419672/14361">Public meetings deserve public access</a>
+		                <span class="timestamp  red">Updated at 10:26 AM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150408/NEWS/150409466/14361">Lifesaving measures commended</a>
+		                <span class="timestamp  red">Updated Apr 8, 2015 at 1:20 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150402/NEWS/150409810/14361">A new era</a>
+		                <span class="timestamp  red">Updated Apr 2, 2015 at 1:09 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150326/GJOPINION04/150329586/14361">Hunter safety courses target hunting mishaps Please don&#8217;t be that kid </a>
+		                <span class="timestamp  red">Posted Mar 26, 2015 at 3:15 AM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150319/GJOPINION04/150319275/14361">Milton and Farmington election results revisited
+</a>
+		                <span class="timestamp  red">Updated Mar 20, 2015 at 1:39 PM</span>
+		            </div>
+				</div>
+    	<div id="2024bkt_media" class="r_bkt_cont float_l clearfix">
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/1/1/PH-414009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+		                Battle of the Badges
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/1/1/PH-413009997.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+		                Somersworth Police Seat belt Challenge
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009998/PH/1/1/PH-413009998.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+		                Fashion Show raises money for Cornerstone VNA
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150412/PHOTOGALLERY/412009999/PH/1/1/PH-412009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+		                Rochester Opera lottery cocktail party
+					</a>
+	            </div>
+	        </div>
+		</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/editorials">Read more &raquo;</a></div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/letters">Letters To The Editor</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="letterstotheeditor_mnu">
+						<li class="active" id="letterstotheeditortab_P14362" style="visibility:hidden;">Letters to the Editor</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+							<!--
+Object Class: NewsItem130.pbo
+-->
+				<div id="2024bkt" class="l_bkt_cont float_l" style="width: 315px;">
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419675/14362">Robbing funds, downshifting expenses</a>
+		                <span class="timestamp  red">Updated at 10:25 AM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419676/14362">John&#39;s retirement sad news</a>
+		                <span class="timestamp  red">Updated at 10:25 AM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419677/14362">Female sacrifice to God OK?</a>
+		                <span class="timestamp  red">Updated at 10:24 AM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419678/14362">&#34;Imagine&#34;</a>
+		                <span class="timestamp  red">Updated at 10:24 AM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150408/NEWS/150409418/14362">An honest to goodness legislator</a>
+		                <span class="timestamp  red">Updated Apr 8, 2015 at 3:39 PM</span>
+		            </div>
+				</div>
+    	<div id="2024bkt_media" class="r_bkt_cont float_l clearfix">
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/1/1/PH-414009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+		                Battle of the Badges
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/1/1/PH-413009997.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+		                Somersworth Police Seat belt Challenge
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009998/PH/1/1/PH-413009998.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+		                Fashion Show raises money for Cornerstone VNA
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150412/PHOTOGALLERY/412009999/PH/1/1/PH-412009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+		                Rochester Opera lottery cocktail party
+					</a>
+	            </div>
+	        </div>
+		</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/letters">Read more &raquo;</a></div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/newhampshire">New Hampshire</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="newhampshire_mnu">
+						<li class="active" id="newhampshiretab_P14363" style="visibility:hidden;">New Hampshire</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+							<!--
+Object Class: NewsItem130.pbo
+-->
+				<div id="2024bkt" class="l_bkt_cont float_l" style="width: 315px;">
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419605/14363">Regulators say several critical fish species have rebounded</a>
+		                <span class="timestamp  red">Updated at 4:51 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419606/14363">Some governors push back over McConnell letter to defy EPA</a>
+		                <span class="timestamp  red">Updated at 4:44 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419607/14363">National Weather Service issues spring fire warnings</a>
+		                <span class="timestamp  red">Updated at 4:31 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419616/14363">Body cameras approved for police in N.H. town</a>
+		                <span class="timestamp  red">Updated at 2:53 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150415/NEWS/150419621/14363">&#39;Animal House&#39; frat to appeal Dartmouth branding sanction  </a>
+		                <span class="timestamp  red">Updated at 2:49 PM</span>
+		            </div>
+				</div>
+    	<div id="2024bkt_media" class="r_bkt_cont float_l clearfix">
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/1/1/PH-414009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+		                Battle of the Badges
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/1/1/PH-413009997.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+		                Somersworth Police Seat belt Challenge
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009998/PH/1/1/PH-413009998.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+		                Fashion Show raises money for Cornerstone VNA
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150412/PHOTOGALLERY/412009999/PH/1/1/PH-412009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+		                Rochester Opera lottery cocktail party
+					</a>
+	            </div>
+	        </div>
+		</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/newhampshire">Read more &raquo;</a></div>
+		<div id="left_bkt" class="m20r" >
+			<div class="clearfix m8t" style="border-bottom:0px solid #eeeeee; padding-bottom:5px">
+				<div class="float_l m12t" >
+					<h3 class="bkt_header black"><a href="http://www.fosters.com/rochester-times/sports">Sports</a></h3>
+				</div>
+				<div  class="bkt_tabs float_r m12t">
+					<ul id="sports_mnu">
+						<li class="active" id="sportstab_P14364" style="visibility:hidden;">Sports</li>
+					</ul>
+				</div>
+			</div>
+			<div class="bkt_cont clearfix">
+							<!--
+Object Class: NewsItem130.pbo
+-->
+				<div id="2024bkt" class="l_bkt_cont float_l" style="width: 315px;">
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150408/SPORTS/150409373/14364">Nute could be a D-IV factor this spring</a>
+		                <span class="timestamp  red">Updated Apr 8, 2015 at 10:46 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150408/SPORTS/150409374/14364">Red Raiders have talent for another deep run</a>
+		                <span class="timestamp  red">Updated Apr 8, 2015 at 10:45 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150408/SPORTS/150409375/14364">Tigers hope to take a bigger bite out of D-III</a>
+		                <span class="timestamp  red">Updated Apr 8, 2015 at 10:41 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150408/SPORTS/150409405/14364">Mike Whaley: No question &#x2014; they got this call right</a>
+		                <span class="timestamp  red">Updated Apr 8, 2015 at 7:24 PM</span>
+		            </div>
+		            <div class="tease_headline m20b bld">
+		                <a href="/article/20150401/SPORTS/150409846/14364">Tilton&#39;s chance is here and now</a>
+		                <span class="timestamp  red">Updated Apr 1, 2015 at 10:59 PM</span>
+		            </div>
+				</div>
+    	<div id="2024bkt_media" class="r_bkt_cont float_l clearfix">
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150414/PHOTOGALLERY/414009999/PH/1/1/PH-414009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150414/PHOTOGALLERY/414009999/PH/629_2798">
+		                Battle of the Badges
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009997/PH/1/1/PH-413009997.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009997/PH/629_2798">
+		                Somersworth Police Seat belt Challenge
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b" style="margin-right:13px">
+		        <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150413/PHOTOGALLERY/413009998/PH/1/1/PH-413009998.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150413/PHOTOGALLERY/413009998/PH/629_2798">
+		                Fashion Show raises money for Cornerstone VNA
+					</a>
+	            </div>
+	        </div>
+	        <div class="media_sm_cont float_l m10b">
+		        <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+	            	<div id="2024bkt0" class="r_bkt_static_img click" style="background: url(http://www.fosters.com/galleryimage/FD/20150412/PHOTOGALLERY/412009999/PH/1/1/PH-412009999.jpg?MaxW=148) 50% 50% / cover no-repeat;"></div>
+		        </a>
+	            <div class="m5t media_tease_title black">
+	                <a href="/photogallery/FD/20150412/PHOTOGALLERY/412009999/PH/629_2798_2800">
+		                Rochester Opera lottery cocktail party
+					</a>
+	            </div>
+	        </div>
+		</div>
+			</div>
+		</div>
+		<div class="m30b m3t red"><a href="http://www.fosters.com/rochester-times/sports">Read more &raquo;</a></div>
+		<script type="text/javascript" src="/Global/js/global/section-front/global-functions.min.js"></script>
+</div>
+
+				
+				<div class="rightbar ftrt">
+						<div class="width100percent mrgn-top-25 stay-informed" style="border-bottom:0;">
+	   					<!-- OAS Ad: Middle: 300x250/600 (right rail) -->
+<div class="adMiddle" id="Middle1" style="clear:both;display:block;float:left;margin:5px 0px;padding:0px;width:300px;height:auto;">
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			OAS_AD('Middle');
+		//-->
+	</script>
+</div>
+				<!-- OAS Ad: x02(LMG Middle2): 300x250/600 (right rail) -->
+<div class="adMiddle" id="Middle2" style="clear:both;display:block;margin:5px 0px;padding:0px;width:300px;height:auto;">
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			OAS_AD('x02');
+		//-->
+	</script>
+</div>
+				<div class="m25b" style="border-bottom: 1px solid #1a7abf;">
+				<iframe src="http://utils.djlmgdigital.com/lld/SO_LLCoupons.shtml" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="300" height="360" allowtransparency="true" id="DealsFrame"></iframe></div>
+				<div class="m25b" style="border-bottom: 1px solid #1a7abf;"><iframe src="http://utils.djlmgdigital.com/verticles/jobs/SO_topJobs.shtml" height="270" width="300" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" id="topJobFrame"></iframe></div>
+				<div class="m25b" style="border-bottom: 1px solid #1a7abf;"><iframe src="http://utils.djlmgdigital.com/verticles/homes/SO_topHomes.shtml" height="250" width="300" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" id="topHomesFrame"></iframe></div>
+	</div>
+
+					<div class="tout-sdk tout-right-rail-embed"></div>
+
+					
+					
+					
+							
+					
+					
+					
+						<div id="poll-frame-cont" class="ftlt width100percent m25b">
+<div name="pollMini" id="pollMini81">
+<div name="PollMiniResult" id="PollMiniResult81">
+  </div>
+  <form name="PollMiniUrl">
+    <input name="url" type="hidden" value="/apps/pbcs.dll/miniquery?NoStat=1&TARGET=_top&W=130&H=60&Labels=leading&Category=POLL&ObjectClass=4&Profile=3798&BGColor=&LabelTrim=" />
+  </form>
+</div>
+	</div>
+
+					<!--This loads business list-->
+<script async src="http://widget.local.seacoastonline.com/widget/json/featured_business_list?callback=ownlocal_insert_business_list&include_ads=1&limit=5&level=1"></script>
+<div class="m25b clr-bth">
+<div id="localhero-widget">
+			 <h3 class="m10b"><a href="http://local.seacoastonline.com" target="_blank">Seacoast Directory</a></h3>
+ <div id="ownlocal-content">
+	 <div id="ownlocal-business-list" class="widget-section">
+	  <h4>Featured Businesses</h4>
+	  <ul>
+	   <li> Loading... </li>
+	  </ul>
+	 </div>
+	 <ul id="ownlocal-business-list-template">
+	  <li>
+	   <a target="_blank" class="ownlocal-business-link"></a>
+	   <div class="ownlocal-business-popup-info">
+			<h4><a target="_blank" href="#">Business Name</a></h4>
+			<p>address<br/>Location, ST | <a href="#">website.com</a></p>
+	   </div>
+	  </li>
+	 </ul>
+	 <div class="widget-section" id="ownlocal-dropdown">
+	  <div class="dropdown-container">
+	   <ul>
+		<li>Find Dover Attractions</li>
+		<li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/nightlife/bars">Bars</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/restaurants/">Restaurants</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/beauty-and-wellness/beauty-shop">Beauty Salons</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/arts-and-entertainment">Entertainment</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/medical/physicians">Doctors</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/medical/medical-specialists">Medical Specialists</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/services/contractor">Contractors</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/education/">Education</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/lawn-and-garden/lawn-care">Lawn Services</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/legal/attorneys">Lawyers</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/shopping">Shopping</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/travel">Travel</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/beauty-and-wellness/tanning">Tanning</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/auto/used-auto-dealer">Used Cars</a></li>
+	    <li><a target="_blank" href="http://local.seacoastonline.com/Dover-NH/wedding-and-party">Wedding Services</a></li>
+	   </ul>
+	   <div class="arrow">&#x25BC;</div>
+	  </div>
+	 </div>
+	  <div class="widget-section" id="ownlocal-search-form">
+	  <form target="_blank" action="http://local.seacoastonline.com/search">
+	   <input type="text" name="query" id="ownlocal-custom-search-field" class = "text" value="Search business by keyword" />
+	   <input type="submit" class="submit" value="Search"/>
+	  </form>
+	 </div>
+	 <div class="widget-section" id="ownlocal-add-business-link">
+	  <a target="_blank" href="http://local.seacoastonline.com/#add_business">Add your business here +</a>
+	 </div>
+</div>
+</div>
+</div>
+
+					<!--STAY INFORMED WIDGET-->
+<ul class="stay-informed mrg-top-15">
+	<li class="title-red title">
+		&raquo;&nbsp;&nbsp;STAY INFORMED
+	</li>
+	<li>
+		<ul class="width100percent">
+			<li class="news-letter-logo">&nbsp;</li>
+			<li class="news-letter-content">
+				<div class="container">
+					<div class="news-letter-title">
+						<a href="http://services.seacoastonline.com/reader-services/subscribe/email-alerts/">Email NewsLetter</a>
+					</div>
+					<div class="button">
+						<a href="#">
+							<div class="red-button-container">
+								<div class="red-button-left">&nbsp;</div>
+								<div class="red-button-middle">
+									<a href="http://services.seacoastonline.com/reader-services/subscribe/email-alerts/">Sign Up Today</a>
+								</div>
+								<div class="red-button-right">&nbsp;</div>
+							</div>         
+						</a>
+					</div>
+				</div>
+				<div class="newsletter-desc">Sign up for our newsletter and have the top headlines from your community delivered right to your inbox.</div>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+					
+					
+					
+						<!-- enter OAS ad code here -->
+
+					        <!--FACEBOOK WIDGET-->
+        <ul class="stay-informed mrg-top-15">
+			<div class="facebook_widget">
+				<div class="facebook_widget_header">
+					<img src="http://www.fosters.com/Global/images/facebook_logo.png" alt="Facebook"/>
+				</div>
+				<div class="facebook_widget_block facebook_widget_like">
+					<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFostersDailyDemocrat&amp;width=298&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:298px; height:62px;" allowTransparency="true"></iframe>
+				</div>
+				<div class="facebook_widget_block facebook_widget_stream">
+					<iframe src="http://www.facebook.com/plugins/activity.php?site=fosters.com&width=398&height=300&header=false&colorscheme=light&font&border_color=%23ffffff&recommendations=true" scrolling="no"frameborder="0" style="border:none; overflow:hidden; width:298px; height:300px;" allowTransparency="true"></iframe>
+				</div>
+			</div>
+        </ul>
+
+					
+					<!--eviesays_sec CALENDAR WIDGET-->
+<ul class="events-calendar mrg-top-15">
+    <ul class="events-calendar">
+        <li class="title-red title" style="border-bottom:0;">Events Calendar</li>
+		<li>
+			<!--LMG eviesays CALENDAR WIDGET in global section-content/rightrail/sections-->
+			<iframe src="http://widget.eviesays.com/widget/render.php?id=124595" frameBorder="0" width="300" height="600" scrolling="no"></iframe>        
+		</li>
+    </ul>
+</ul>
+
+					        <ul class="stay-informed mrg-top-15">
+        </ul>
+
+							<!-- OAS Ad: x03(LMG Middle3): 300x250/600 -->
+<div class="adMiddle" id="Middle3" style="clear:both;display:block;margin:15px 0px;padding:0px;width:300px;height:auto;">
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			OAS_AD('x03');
+		//-->
+	</script>
+</div>
+
+				</div>
+			</div>
+<!--=================================================
+====================END: CONTENT===================-->
+
+
+
+
+<!--==================================================
+====================START: FOOTER===================-->
+			
+			
+			
+			
+						<div class="bannerbottom clr-bth">
+<!-- OAS Ad: Top2: 728x90 (Leaderboard in Footer) -->
+<div class="adTop" id="Top2">
+	<script language="JavaScript" type="text/javascript">
+		<!--
+			OAS_AD('Top2');
+		//-->
+	</script>
+</div>
+</div>
+
+			 <div id="footer" class="ftlt">
+	<div class="footerhead ftlt">
+		<div class="footerheadleft ftlt">Connect with fosters.com</div>
+		<div class="footerheadright ftlt">
+			<div class="ftlt">
+				<ul class="foot">
+					<li class="divider"></li>
+					<li class="word"><a href="http://www.facebook.com/FostersDailyDemocrat">Facebook</a></li>
+					<li class="word"><a href="http://www.twitter.com/FostersDailyDem">Twitter</a></li>
+			   		<li class="word">
+			   			<a href="/section/feed">RSS</a>
+			   		</li>
+					<li class="word"><a href="#top">Back to top</a></li>
+				</ul>
+			</div>
+		</div>	
+	</div>
+	<div class="footer-middle">	
+		<div class="footerleft ftlt">
+	    	<div class="footerlinks ftlt">
+	        	<div class="column loop ftlt">
+	            	<h4>
+	                	Reader Services
+								</h4>
+		            <ul class="width100percent">					
+		                <li>
+	<div class="width85percent ftlt">
+		<a title="Reader Services Home" href="http://services.seacoastonline.com/" target="_blank">
+			Reader Services Home
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="New Subscription" href="http://services.seacoastonline.com/reader-services/current-subscribers/" target="_blank">
+			New Subscription
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Subscriber Controls" href="http://services.seacoastonline.com/reader-services/current-subscribers/" target="_blank">
+			Subscriber Controls
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Contact Us" href="http://services.seacoastonline.com/reader-services/contact-us/" target="_blank">
+			Contact Us
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Archive" href="/section/archive" target="_blank">
+			Archive
+		</a>
+	</div>
+</li>
+		            </ul>
+						</div>
+		        <div class="column loop ftlt">
+		            <h4>
+		                Submissions
+		            </h4>
+		            <ul class="width100percent">					
+		                <li>
+	<div class="width85percent ftlt">
+		<a title="Photos" href="http://services.seacoastonline.com/reader-services/submissions/photos/" target="_blank">
+			Photos
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Events" href="http://www.seacoastonline.com/section/calendar" target="_blank">
+			Events
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Letters to the Editor" href="http://services.seacoastonline.com/reader-services/submissions/letter-to-editor/" target="_blank">
+			Letters to the Editor
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Corrections" href="http://services.seacoastonline.com/reader-services/submissions/corrections/" target="_blank">
+			Corrections
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Announcements & Obits" href="http://services.seacoastonline.com/reader-services/submissions/announcements-obituaries/" target="_blank">
+			Announcements & Obits
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Story Ideas" href="http://services.seacoastonline.com/reader-services/submissions/story-idea/" target="_blank">
+			Story Ideas
+		</a>
+	</div>
+</li>
+		            </ul>
+		        </div>
+		        <div class="column loop ftlt">
+		            <h4>
+		                Alerts
+		            </h4>
+		            <ul class="width100percent">					
+		                <li>
+	<div class="width85percent ftlt">
+		<a title="Email Alerts" href="http://services.seacoastonline.com/reader-services/subscribe/email-alerts/" target="_blank">
+			Email Alerts
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Text Alerts" href="http://services.seacoastonline.com/reader-services/subscribe/text-alerts/" target="_blank">
+			Text Alerts
+		</a>
+	</div>
+</li>
+		            </ul>
+		        </div>
+		        <div class="column loop ftlt">
+		            <h4>
+		                Advertise
+		            </h4>
+		            <ul class="width100percent">					
+		                <li>
+	<div class="width85percent ftlt">
+		<a title="Media Kit" href="http://services.seacoastonline.com/media-kit/" target="_blank">
+			Media Kit
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Products & Services" href="http://services.seacoastonline.com/media-kit/products-services/" target="_blank">
+			Products & Services
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Ad Rates" href="http://services.seacoastonline.com/media-kit/advertising-rates/" target="_blank">
+			Ad Rates
+		</a>
+	</div>
+</li><li>
+	<div class="width85percent ftlt">
+		<a title="Advertising Contacts" href="http://services.seacoastonline.com/media-kit/advertising-contacts/" target="_blank">
+			Advertising Contacts
+		</a>
+	</div>
+</li>
+		            </ul>
+		        </div>
+			</div>
+			<div class="footer-quick-links ftlt">
+				<a target="_blank" href="http://www.Seacoastonline.com/" class="loop">Seacoastonline.com</a>
+				<a target="_blank" href="http://www.SeacoastCareers.com" class="loop">SeacoastCareers.com</a>	
+				<a target="_blank" href="http://www.SeacoastRealEstate.com" class="loop">SeacoastRealEstate.com</a>	
+				<a target="_blank" href="http://www.SeacoastClassifiedAds.com" class="loop">SeacoastClassifiedAds.com</a>	
+				<a target="_blank" href="http://www.seacoastonline.com/blogs" class="last">Blogs</a>
+			</div>
+		</div>
+		<div class="footerright ftrt">
+			<div class="footerdeal" style="padding-top:5px;padding-bottom:0px;">
+				<ul class="stay-informed no-border">
+					<li class="title-red title">Stay Informed</li>
+					<li>
+						<ul class="width100percent">
+							<li class="news-letter-logo stayinformed-left">&nbsp;</li>
+							<li class="news-letter-content stayinformed-right">
+								<div class="container">
+									<div class="news-letter-title">Email newsletter</div>
+									<div class="button">
+										<a href="http://www.fosters.com/newsletter" target="_blank">
+											<div class="red-button-container">
+												<div class="red-button-left">&nbsp;</div>
+												<div class="red-button-middle">Sign Up Today</div>
+												<div class="red-button-right">&nbsp;</div>
+											</div>         
+										</a>
+									</div>
+								</div>
+								<div class="newsletter-desc">Sign up for our newsletter and have the top headlines from your community delivered right to your inbox.</div>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<div class="clr-bth"></div>
+				<p class="privacy" style="padding:0px !important;">Your privacy is important, read our <a href="http://www.localmediagroupinc.com/privacy">privacy policy.</a></p>
+			</div>
+		</div>
+	</div>
+	<div class="copyright clearfix ftlt">
+		<div class="copyrightright ftlt">&copy; Copyright 2015 Local Media Group, Inc. All Rights Reserved.&nbsp;&nbsp;&nbsp;<a style="color:#53749a" target="_blank" href="http://www.localmediagroupinc.com/privacy">Privacy Policy</a>&nbsp;|&nbsp;<a style="color:#53749a" target="_blank" href="http://www.localmediagroupinc.com/terms-use">Terms of Service</a>&nbsp;|&nbsp;<a style="color:#53749a" target="_blank" href="http://www.localmediagroupinc.com/locations">Local Media Group Publications</a> <br> Original content available for non-commercial use under a Creative Commons license, except where noted.<br> fosters.com &#124; 150 Venture Dr., Dover, NH 03820
+		</div>
+	</div>
+</div>
+
+			
+			<!-- Removed loadus.exelator.com script -->
+			<!--
+	<script type="text/javascript">
+	function bind_urls(){	
+		$('#cwell').bind('click', function() {});
+	}
+	bind_urls();
+	</script>
+-->
+
+			<script type="text/javascript">
+$('.track-event').click(function(){
+	var $this = $(this);
+	var $path = $this.data('event-path');
+	track_event($path);
+});
+</script>
+
+		</div>
+		
+				<!-- OAS Ad: pageCurl: (top right corner page peel or homepage takeover) -->
+<div class="pageCurl" id="Position3" style="float:left; display:inline; width:1024px; margin:0px; padding:0px; text-align:center; height:auto;}">
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		OAS_AD('Position3');
+	//-->
+	</script>
+</div>
+
+			<script type="text/javascript">
+	function refresh_page(){
+	   var cURL = window.location.href;
+	   var sectionNoGet = /\?refresh=true$/g;
+	   var sectionNoGet = cURL.match(sectionNoGet)
+	   var sectionGet = /\?refresh=true&/g;
+	   var sectionGet = cURL.match(sectionGet)
+	   var pageNoGet = /\&refresh=true$/g;
+	   var pageNoGet = cURL.match(pageNoGet)
+	   var pageGet = /\&refresh=true&/g;
+	   var pageGet = cURL.match(pageGet)
+	   if(pageNoGet){
+	      var cURL = window.location.href.replace('&refresh=true','')
+	      window.location = cURL+'&refresh=true'
+	   }else if(pageGet){
+	      var cURL = window.location.href.replace('&refresh=true&','?')
+	      window.location = cURL+'&refresh=true'
+	   }else if(sectionNoGet){
+	      var cURL = window.location.href.replace('?refresh=true','')
+	      window.location = cURL+'?refresh=true'
+	   }else if(sectionGet){
+	      var cURL = window.location.href.replace('?refresh=true&','?')
+	      window.location = cURL+'&refresh=true'
+	   }else if(!sectionGet || !sectionNoGet || !pageGet || !pageNoGet){
+	      var newSectionNoGet = /\?/g;
+	      var newSectionNoGet = cURL.match(newSectionNoGet)
+	      if(newSectionNoGet){
+	          window.location = cURL+'&refresh=true'
+	      }else{
+	          window.location = cURL+'?refresh=true'
+	      }
+	   }
+	}
+	$(document).ready(function() {setInterval(function(){if(vidplayed == false){refresh_page();}},240000);});  
+	</script>
+
+		
+		<script>window.TOUT = {propertyUid: "753cb7"};</script>
+<script src="http://platform.tout.com/sdk.js" async></script>
+
+	</body>
+</html>
+<!--==================================================
+====================END: FOOTER===================-->
