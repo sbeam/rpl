@@ -34,7 +34,18 @@ describe EntryCollection do
 
     it "eliminates personal entries" do
       collection = EntryCollection.new @lines
-      collection.cleaned.select { |e| e.entry =~ /(Johnathan|Tanya|Tammy)/ }.first.must_be_nil
+      collection.cleaned.select { |e| e.to_s =~ /(Johnathan|Tanya|Tammy)/ }.first.must_be_nil
+    end
+
+    it "breaks up entries over 140 chars into tweetstorms with page numbers" do
+       long_one = "X"*137 + "Y"*137 + "Z"*50
+       @lines << [long_one]
+       collection = EntryCollection.new @lines
+       collection.cleaned[-1].to_tweets.must_equal [
+           "X"*137 + " /1",
+           "Y"*137 + " /2",
+           "Z"*50 + " /3",
+       ]
     end
 
 end

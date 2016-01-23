@@ -3,10 +3,10 @@ require 'date'
 
 class LogEntry
 
-    attr_reader :entry
+    attr_reader :lines
 
     def initialize entry, day
-      @entry = entry
+      @lines = [entry]
       @day = day
       @time = scan_time(entry)
     end
@@ -16,14 +16,14 @@ class LogEntry
     end
 
     def collapse_times
-      if matches = @entry.match(/(\d+:\d+)\s*([ap])\.?m\.?[\s-]*/)
-        @entry.gsub!(matches[0], "#{matches[1]}#{matches[2]}m ")
+      if matches = @lines[0].match(/(\d+:\d+)\s*([ap])\.?m\.?[\s-]*/)
+        @lines[0].gsub!(matches[0], "#{matches[1]}#{matches[2]}m ")
       end
       self
     end
 
     def decode
-      @entry = Decoder.decode(@entry)
+      @lines.map! { |line| Decoder.decode(line) }
       self
     end
 
@@ -34,26 +34,36 @@ class LogEntry
     end
 
     def to_s
-      "#{date.to_s}: #{@entry}"
+      "#{date.to_s}: #{@lines.join(' ')}"
     end
 
     def to_hash
       Digest::MD5.hexdigest(to_s)
     end
 
-    def to_tweet
-      @entry
+    def to_tweets
+      if @lines[0].length > 140                   # tweetstorm!
+          chunks = (@lines[0].length / 137)       # leave 3 for "page numbers"
+          line = @lines[0]
+          @lines = (0..chunks).map do |c|
+            a = c*137
+            z = ((c+1)*137) - 1
+            #puts "#{c}: #{a} -> #{z}"
+            line[a..z] + " /" + (c+1).to_s
+          end
+      end
+      @lines
     end
 
     def is_personal?
       # Christopher [M.] Thibeault, 25, of 74B Winter St.,
-      @entry =~ /[A-Z]\w+ ([A-Z]\. )?[A-Z]\w+, \d+, (of|a|an) [^,]+,/
+      to_s =~ /[A-Z]\w+ ([A-Z]\. )?[A-Z]\w+, \d+, (of|a|an) [^,]+,/
     end
 
     private
 
     def scan_time entry
-      if matches = @entry.match(/(\d+:\d+)\s*([ap]\.?m\.?)/)
+      if matches = @lines[0].match(/(\d+:\d+)\s*([ap]\.?m\.?)/)
         "#{matches[1]} #{matches[2]}"
       end
     end

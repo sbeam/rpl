@@ -32,7 +32,6 @@ raw_entries = []
 File.open('test/fixtures/rochester-times') do |f|
   the_log_url = scrape_landing_page f
   puts the_log_url
-  # TODO fetch it
   File.open('test/fixtures/14326') do |the_log|
     the_log.each_line do |line|
       if line =~ /<blockquote/
@@ -49,7 +48,9 @@ entries.cleaned.each_with_index do |entry, i|
     #time_to_send = (entry.date + entries.entry_time_offset).to_s                                    # schedule for now + n+1 days                 (Apr 20 9:48am)
     time_to_send = (Time.now + i*120 + 15).to_s
     puts "setting send for #{time_to_send}"
-    puts entry.to_tweet
-    Resque.enqueue_at(Time.parse(time_to_send), SendTweet, entry.entry)
+    entry.to_tweets.each do |tweet|
+        puts tweet
+        Resque.enqueue_at(Time.parse(time_to_send), SendTweet, tweet)
+    end
   end
 end
