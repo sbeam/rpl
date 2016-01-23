@@ -7,7 +7,6 @@ Dir["#{File.dirname __FILE__}/lib/*.rb"].each { |file| require file }
 
 require './send_tweet'
 
-
 Resque::Scheduler.configure do |c|
   c.quiet = false
   c.verbose = true
@@ -30,11 +29,11 @@ end
 
 raw_entries = []
 
-File.open('rochester-times') do |f|
+File.open('test/fixtures/rochester-times') do |f|
   the_log_url = scrape_landing_page f
   puts the_log_url
   # TODO fetch it
-  File.open('14326') do |the_log|
+  File.open('test/fixtures/14326') do |the_log|
     the_log.each_line do |line|
       if line =~ /<blockquote/
          raw_entries += line.scan(/<blockquote\s*>(.*?)<\/blockquote\s*>\s*/)
@@ -43,22 +42,14 @@ File.open('rochester-times') do |f|
   end
 end
 
-entries = EntryCollection.new(raw_entries).cleaned
+entries = EntryCollection.new(raw_entries)
 
-first_day = entries.detect { |e| !e.date.nil? }.date                             # get the day of the first entry              (Apr 12 9:48am)
-that_midnight = DateTime.new(first_day.year, first_day.month, first_day.day)     # go to the following midnight                (Apr 13 00:00)
-puts that_midnight.to_s
-
-now = DateTime.now                                                               # today, obviously                            (Apr 19, 5:50pm)
-midnight = DateTime.new(now.year, now.month, now.day)                            # get todays midnight                         (Apr 20 00:00)
-puts midnight.to_s
-offset = midnight - that_midnight + 1                                            # offset is now - days since first entry +1   (8)
-puts offset.to_s
-
-entries.each do |entry|
+entries.cleaned.each_with_index do |entry, i|
   if entry.date
-    time_to_send = (entry.date + offset).to_s                                    # schedule for now + n+1 days                 (Apr 20 9:48am)
+    #time_to_send = (entry.date + entries.entry_time_offset).to_s                                    # schedule for now + n+1 days                 (Apr 20 9:48am)
+    time_to_send = (Time.now + i*120 + 15).to_s
     puts "setting send for #{time_to_send}"
+    puts entry.to_tweet
     Resque.enqueue_at(Time.parse(time_to_send), SendTweet, entry.entry)
   end
 end

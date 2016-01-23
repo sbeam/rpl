@@ -4,6 +4,7 @@ require 'date'
 class LogEntry
 
     attr_reader :entry
+
     def initialize entry, day
       @entry = entry
       @day = day
@@ -46,7 +47,7 @@ class LogEntry
 
     def is_personal?
       # Christopher [M.] Thibeault, 25, of 74B Winter St.,
-      @entry =~ /[A-Z]\w+ ([A-Z]\. )?[A-Z]\w+, \d+, of [^,]+/
+      @entry =~ /[A-Z]\w+ ([A-Z]\. )?[A-Z]\w+, \d+, (of|a|an) [^,]+,/
     end
 
     private
