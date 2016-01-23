@@ -43,13 +43,13 @@ class LogEntry
 
     def to_tweets
       if @lines[0].length > 140                   # tweetstorm!
-          chunks = (@lines[0].length / 137)       # leave 3 for "page numbers"
+          chunks = (@lines[0].length / 136)       # leave 4 chars for "page numbers"
           line = @lines[0]
           @lines = (0..chunks).map do |c|
-            a = c*137
-            z = ((c+1)*137) - 1
+            a = c*136
+            z = ((c+1)*136) - 1
             #puts "#{c}: #{a} -> #{z}"
-            line[a..z] + " /" + (c+1).to_s
+            "#{line[a..z]} #{(c+1).to_s}/#{(chunks+1).to_s}"
           end
       end
       @lines

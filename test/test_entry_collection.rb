@@ -38,13 +38,13 @@ describe EntryCollection do
     end
 
     it "breaks up entries over 140 chars into tweetstorms with page numbers" do
-       long_one = "X"*137 + "Y"*137 + "Z"*50
+       long_one = "X"*136 + "Y"*136 + "Z"*50
        @lines << [long_one]
        collection = EntryCollection.new @lines
        collection.cleaned[-1].to_tweets.must_equal [
-           "X"*137 + " /1",
-           "Y"*137 + " /2",
-           "Z"*50 + " /3",
+           "X"*136 + " 1/3",
+           "Y"*136 + " 2/3",
+           "Z"*50 + " 3/3",
        ]
     end
 
