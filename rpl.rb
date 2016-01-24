@@ -43,14 +43,10 @@ end
 
 entries = EntryCollection.new(raw_entries)
 
-entries.cleaned.each_with_index do |entry, i|
-  if entry.date
-    #time_to_send = (entry.date + entries.entry_time_offset).to_s                                    # schedule for now + n+1 days                 (Apr 20 9:48am)
-    time_to_send = (Time.now + i*120 + 15).to_s
-    puts "setting send for #{time_to_send}"
-    entry.to_tweets.each do |tweet|
-        puts tweet
-        Resque.enqueue_at(Time.parse(time_to_send), SendTweet, tweet)
-    end
+entries.each do |entry, time_to_send|
+  puts "scheduling for #{time_to_send.to_s}"
+  entry.to_tweets.each do |tweet|
+    puts tweet
+    Resque.enqueue_at(time_to_send, SendTweet, tweet)
   end
 end

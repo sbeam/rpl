@@ -22,27 +22,40 @@ describe EntryCollection do
 
     it "lets entries be added" do
       collection = EntryCollection.new @lines
-      collection.cleaned.length.must_equal 6
+      collection.to_a.length.must_equal 6
     end
 
-    it "pulls out the correct dates" do
+    it "prepends the original date and time" do
+      collection = EntryCollection.new @lines
+      collection.to_a[2].to_tweets[0].must_match  /^Mar 31 9:39pm /
+    end
+
+    it "pulls out the correct dates in UTC" do
       collection = EntryCollection.new @lines
       year = Time.new.year
-      collection.cleaned.first.date.to_s.must_equal "#{year}-03-31T16:48:00+00:00"
-      collection.cleaned.last.date.to_s.must_equal  "#{year}-04-01T01:23:00+00:00"
+      collection.to_a.first.date.to_s.must_equal "#{year}-03-31T16:48:00+00:00"
+      collection.to_a.last.date.to_s.must_equal  "#{year}-04-01T01:23:00+00:00"
     end
 
     it "eliminates personal entries" do
       collection = EntryCollection.new @lines
-      collection.cleaned.select { |e| e.to_s =~ /(Johnathan|Tanya|Tammy)/ }.first.must_be_nil
+      collection.to_a.select { |e| e.to_s =~ /(Johnathan|Tanya|Tammy)/ }.first.must_be_nil
+    end
+
+    it "has an each method that yields the correct time to send in US/Eastern" do
+      collection = EntryCollection.new [@lines[2]]
+      year = Time.new.year
+      collection.each do |e, time|
+        time.to_s.must_equal "#{year}-03-31T16:48:00 -05:00"
+      end
     end
 
     it "breaks up entries over 140 chars into tweetstorms with page numbers" do
-       long_one = "X"*136 + "Y"*136 + "Z"*50
+       long_one = "8:22 p.m. " + "X"*123 + "Y"*136 + "Z"*50
        @lines << [long_one]
        collection = EntryCollection.new @lines
-       collection.cleaned[-1].to_tweets.must_equal [
-           "X"*136 + " 1/3",
+       collection.to_a[-1].to_tweets.must_equal [
+           "Apr 1 8:22pm " + "X"*123 + " 1/3",
            "Y"*136 + " 2/3",
            "Z"*50 + " 3/3",
        ]

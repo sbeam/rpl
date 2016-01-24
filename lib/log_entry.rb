@@ -2,29 +2,13 @@ require_relative 'decoder'
 require 'date'
 
 class LogEntry
-
-    attr_reader :lines
+    RPL_TIME_REGEX = /(\d+:\d+)\s*([ap]\.?m\.?)\s*/
 
     def initialize entry, day
-      @lines = [entry]
       @day = day
       @time = scan_time(entry)
-    end
 
-    def clean
-      decode.collapse_times
-    end
-
-    def collapse_times
-      if matches = @lines[0].match(/(\d+:\d+)\s*([ap])\.?m\.?[\s-]*/)
-        @lines[0].gsub!(matches[0], "#{matches[1]}#{matches[2]}m ")
-      end
-      self
-    end
-
-    def decode
-      @lines.map! { |line| Decoder.decode(line) }
-      self
+      @entry = Decoder.decode(re_timestamp(entry))
     end
 
     def date
@@ -33,38 +17,48 @@ class LogEntry
       end
     end
 
-    def to_s
-      "#{date.to_s}: #{@lines.join(' ')}"
+    def date_fmt
+      if d = date
+        date.strftime("%b %-d %l:%M%P").gsub(/\s+/, ' ')
+      end
     end
 
     def to_hash
-      Digest::MD5.hexdigest(to_s)
+      Digest::MD5.hexdigest(@entry)
     end
 
     def to_tweets
-      if @lines[0].length > 140                   # tweetstorm!
-          chunks = (@lines[0].length / 136)       # leave 4 chars for "page numbers"
-          line = @lines[0]
-          @lines = (0..chunks).map do |c|
+      if @entry.length > 140                        # tweetstorm!
+          chunks = (@entry.length / 136)                            # leave 4 chars for "page numbers"
+          (0..chunks).map do |c|
             a = c*136
             z = ((c+1)*136) - 1
             #puts "#{c}: #{a} -> #{z}"
-            "#{line[a..z]} #{(c+1).to_s}/#{(chunks+1).to_s}"
+            "#{@entry[a..z]} #{(c+1).to_s}/#{(chunks+1).to_s}"
           end
+      else
+        [@entry]
       end
-      @lines
     end
 
     def is_personal?
       # Christopher [M.] Thibeault, 25, of 74B Winter St.,
-      to_s =~ /[A-Z]\w+ ([A-Z]\. )?[A-Z]\w+, \d+, (of|a|an) [^,]+,/
+      @entry =~ /[A-Z]\w+ ([A-Z]\. )?[A-Z]\w+, \d+, (of|a|an) [^,]+,/
+    end
+
+    def sendable?
+      !is_personal? && @day && @time
     end
 
     private
 
     def scan_time entry
-      if matches = @lines[0].match(/(\d+:\d+)\s*([ap]\.?m\.?)/)
+      if matches = entry.match(RPL_TIME_REGEX)
         "#{matches[1]} #{matches[2]}"
       end
+    end
+
+    def re_timestamp entry
+      entry.gsub(RPL_TIME_REGEX, "#{date_fmt} ")
     end
 end
