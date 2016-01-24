@@ -13,7 +13,12 @@ class LogEntry
 
     def date
       if @day && @time
-        DateTime.parse("#{@day} #{@time}")
+        date = DateTime.parse("#{@day} #{@time}")
+        if date > DateTime.now                  # if the date seems to be in future, must have been Auld Lang Syne
+          DateTime.new(date.year - 1, date.month, date.day, date.hour, date.minute)
+        else
+          date
+        end
       end
     end
 
@@ -29,7 +34,7 @@ class LogEntry
 
     def to_tweets
       if @entry.length > 140                        # tweetstorm!
-          chunks = (@entry.length / 136)                            # leave 4 chars for "page numbers"
+          chunks = (@entry.length / 136)            # leave 4 chars for "page numbers"
           (0..chunks).map do |c|
             a = c*136
             z = ((c+1)*136) - 1
